@@ -93,35 +93,33 @@ npm run start
 
 ---
 
-## 🏆 Hackathon Evaluation Criteria Alignment
-
 DayBriefing was architected and designed directly aligned with the key evaluation criteria for maximum product impact:
 
-### 1. Problem Solving & Impact (20%)
+### 1. Problem Solving & Impact 
 - **Targeting High-Value Friction**: Solves the "executive inbox fatigue" problem where professionals spend hours sorting daily notifications.
 - **Immediate Outcome Focus**: Shifts the paradigm from passive reading to actionable triage, allowing users to synthesize an inbox, view calendar context, prepare email replies, and schedule tasks in seconds.
 
-### 2. Agentic Depth (20%)
+### 2. Agentic Depth 
 - **Intentional Context Scans**: Employs an agentic workflow that loops through workspace resources (unreplied threads, meetings, and items) to analyze, formulate, and present reasoning-backed follow-ups.
 - **Smart Recommendations**: Evaluates deep email threads and constructs context-aware draft recommendations and priority ratings rather than simple template match-ups.
 
-### 3. Innovation & Creativity (20%)
+### 3. Innovation & Creativity 
 - **Executive-Level AI Chief of Staff**: Re-imagines standard email clients as an intelligent personal assistant that is actively working for you in the background.
 - **Seamless Unified Workspace Flow**: Synchronizes discrete workspace platforms (Email, Calendar, Tasks) into a single unified and intuitive decision matrix.
 
-### 4. Usage of Google Technologies (15%)
+### 4. Usage of Google Technologies 
 - **Google Gemini API**: Utilizes the high-speed modern `@google/genai` SDK for multi-threaded summary compilation, action translation, and smart recommendation flows.
 - **Google Workspace Ecosystem**: Plugs securely into real-time user endpoints for Google Calendar events, Gmail threads, and Google Tasks sync.
 - **Firebase Core**: Leverages Firebase Authentication and secure Firestore Database endpoints for seamless, durable persistence of summaries, sessions, and settings.
 
-### 5. Product Experience & Design (10%)
+### 5. Product Experience & Design 
 - **SaaS Flagship Polish**: Emulates the high-end minimalist styling of Superhuman and Linear.
 - **Maximum Clarity & Clean Scanning**: Visual noise reduced by 40% using custom font pairings (**Plus Jakarta Sans** + **JetBrains Mono**), responsive 12-column layouts, single-line ellipsis truncation, and adaptive glowing priority alerts.
 
-### 6. Technical Implementation (10%)
+### 6. Technical Implementation 
 - **Optimized Full-Stack Bundler**: Express server running Vite dev middleware dynamically in local development, and deploying to production with optimized `esbuild` server compilation to avoid Node ESM resolution constraints.
 - **Rigorous Type Safety**: Strictly typed TypeScript interfaces mapping APIs, events, database schemas, and components without standard generic fallbacks.
 
-### 7. Completeness & Usability (5%)
+### 7. Completeness & Usability 
 - **Production-Ready Deliverable**: Polished end-to-end user experience featuring interactive modals, smooth transitions, instant local loading screens, and robust error handlers that preserve state on failures.
 
