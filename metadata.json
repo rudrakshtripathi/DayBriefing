@@ -1,0 +1,6 @@
+{
+  "name": "DayBriefing",
+  "description": "Your AI Chief of Staff. Scans your Gmail, finds what's urgent, and schedules your day with Google Tasks and Google Calendar integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
