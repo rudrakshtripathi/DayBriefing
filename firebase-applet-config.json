@@ -1,7 +1,7 @@
 {
   "projectId": "daybriefing",
   "appId": "1:185861533603:web:52c417c726c8a5483af416",
-  "apiKey": "AIzaSyBWxmKQQmeJgnAQqDq7LTwWfAdAAs3KL1A",
+  "apiKey": "YOUR_GEMINI_API_KEY",
   "authDomain": "daybriefing.firebaseapp.com",
   "storageBucket": "daybriefing.firebasestorage.app",
   "messagingSenderId": "185861533603",
